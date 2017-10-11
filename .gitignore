@@ -5,6 +5,7 @@ bin/
 *.project
 *.settings
 jacoco
+jenkins
 *logs/
 *dist
 *tmp
